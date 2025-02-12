@@ -1,7 +1,3 @@
-Hello this isstash file.
-
-
-Hello this is change file.
 
 
 hello
